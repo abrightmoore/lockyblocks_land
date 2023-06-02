@@ -1,0 +1,161 @@
+{
+	"resource_pack_name": "Lockyblocks Land RP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"twf_trophy": {
+			"textures": "textures/blocks/twf_trophy_tex"
+		},
+		"twf_lockyblock_2x2_diamond": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_diamond_tex"
+		},              
+		"twf_lockyblock_2x2_gold": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_gold_tex"
+		},        
+		"twf_lockyblock_1x1_violet": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_violet_tex"
+		},
+		"twf_lockyblock_2x2cone_red": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_red_tex"
+		},
+		"twf_lockyblock_1x1_black": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_black_tex"
+		},
+		"twf_lockyblock_2x2cone_yellow": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_yellow_tex"
+		},
+		"twf_lockyblock_1x1small_orange": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_orange_tex"
+		},
+		"twf_lockyblock_2x2cone_grey": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_grey_tex"
+		},
+		"lockyblock_2x2": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_tex"
+		},
+		"twf_lockyblock_2x2cone_violet": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_violet_tex"
+		},
+		"twf_lockyblock_2x2_red": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_red_tex"
+		},
+		"twf_lockyblock_2x2_violet": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_violet_tex"
+		},
+		"twf_lockyblock_1x1_white": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_white_tex"
+		},
+		"twf_lockyblock_1x1_indigo": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_indigo_tex"
+		},
+		"twf_lockyblock_2x2_rainbow": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_rainbow_tex"
+		},
+		"twf_lockyblock_2x2_blue": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_blue_tex"
+		},
+		"twf_lockyblock_1x1small_green": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_green_tex"
+		},
+		"twf_lockyblock_2x2_green": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_green_tex"
+		},
+		"twf_lockyblock_2x2cone_orange": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_orange_tex"
+		},
+		"twf_lockyblock_1x1_red": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_red_tex"
+		},
+		"twf_lockyblock_2x2cone_blue": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_blue_tex"
+		},
+		"twf_lockyblock_2x2_white": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_white_tex"
+		},
+		"twf_lockyblock_1x1_green": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_green_tex"
+		},
+		"twf_lockyblock_1x1_rainbow": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_rainbow_tex"
+		},
+		"lockyblock_2x2cone": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_tex"
+		},
+		"lockyblock_1x1small": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_tex"
+		},
+		"twf_lockyblock_1x1small_blue": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_blue_tex"
+		},
+		"twf_lockyblock_2x2cone_indigo": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_indigo_tex"
+		},
+		"twf_lockyblock_2x2cone_black": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_black_tex"
+		},
+		"twf_lockyblock_2x2_yellow": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_yellow_tex"
+		},
+		"twf_lockyblock_1x1small_white": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_white_tex"
+		},
+		"twf_lockyblock_2x2_orange": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_orange_tex"
+		},
+		"twf_lockyblock_1x1small_red": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_red_tex"
+		},
+		"twf_lockyblock_1x1small_rainbow": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_rainbow_tex"
+		},
+		"twf_lockyblock_1x1_yellow": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_yellow_tex"
+		},
+		"twf_lockyblock_1x1_blue": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_blue_tex"
+		},
+		"twf_lockyblock_2x2cone_white": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_white_tex"
+		},
+		"twf_lockyblock_2x2_black": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_black_tex"
+		},
+		"twf_lockyblock_1x1small_violet": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_violet_tex"
+		},
+		"twf_lockyblock_1x1small_yellow": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_yellow_tex"
+		},
+		"twf_lockyblock_2x2_indigo": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_indigo_tex"
+		},
+		"twf_lockyblock_2x2cone_rainbow": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_rainbow_tex"
+		},
+		"twf_lockyblock_1x1small_grey": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_grey_tex"
+		},
+		"twf_lockyblock_1x1_orange": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_orange_tex"
+		},
+		"twf_lockyblock_1x1_grey": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_grey_tex"
+		},
+		"twf_lockyblock_1x1small_black": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_black_tex"
+		},
+		"twf_lockyblock_2x2cone_green": {
+			"textures": "textures/blocks/twf_lockyblock_2x2cone_green_tex"
+		},
+		"twf_lockyblock_1x1small_indigo": {
+			"textures": "textures/blocks/twf_lockyblock_1x1small_indigo_tex"
+		},
+		"twf_lockyblock_2x2_grey": {
+			"textures": "textures/blocks/twf_lockyblock_2x2_grey_tex"
+		},
+		"lockyblock_1x1": {
+			"textures": "textures/blocks/twf_lockyblock_1x1_tex"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "header": {
+    "name": "TWFLockyblockLand",
+    "version": [1, 0, 0],
+    "uuid": "b562136e-e0fc-0043-f4a6-702ab691eaeb"
+  },
+  "modules": [
+    {
+      "version": [1, 0, 0],
+      "type": "skin_pack",
+      "uuid": "3f2f567a-deed-5be9-3d34-7962725386b4"
+    }
+  ],
+  "format_version": 1
+}

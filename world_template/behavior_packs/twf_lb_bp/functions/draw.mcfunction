@@ -1,0 +1,24 @@
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:green_lockyblock_2x2 0 replace minecraft:grass
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:indigo_lockyblock_2x2 0 replace minecraft:leaves
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:violet_lockyblock_2x2 0 replace minecraft:leaves2
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:grey_lockyblock_2x2 0 replace minecraft:stone
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:grey_lockyblock_2x2 0 replace minecraft:gravel
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:orange_lockyblock_2x2 0 replace minecraft:dirt
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:orange_lockyblock_2x2 0 replace minecraft:podzol
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:red_lockyblock_2x2 0 replace minecraft:sand 1
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:yellow_lockyblock_2x2 0 replace minecraft:sand
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:yellow_lockyblock_2x2 0 replace minecraft:sandstone
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:red_lockyblock_2x2 0 replace minecraft:red_sandstone
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:red_lockyblock_2x2 0 replace minecraft:log
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:red_lockyblock_2x2 0 replace minecraft:log2
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:blue_lockyblock_2x2 0 replace minecraft:ice
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:blue_lockyblock_2x2 0 replace minecraft:blue_ice
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:blue_lockyblock_2x2 0 replace minecraft:frosted_ice
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:blue_lockyblock_2x2 0 replace minecraft:packed_ice
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:white_lockyblock_2x2 0 replace minecraft:snow
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:white_lockyblock_2x2 0 replace minecraft:powder_snow
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:black_lockyblock_2x2 0 replace minecraft:deepslate
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:black_lockyblock_2x2 0 replace minecraft:blackstone
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:red_lockyblock_2x2 0 replace minecraft:netherrack
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:orange_lockyblock_2x2 0 replace minecraft:soul_sand
+execute @a[scores={landscaper=1}] ~ ~ ~ fill ~-12 ~-6 ~-12 ~12 ~6 ~12 twf:orange_lockyblock_2x2 0 replace minecraft:soul_soil

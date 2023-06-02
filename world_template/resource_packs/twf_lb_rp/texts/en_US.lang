@@ -1,0 +1,62 @@
+pack.name=Lockyblocks Land RP
+pack.description=Resource Pack for Lockyblocks Land by The World Foundry
+
+tile.twf:trophy.name=Crystal Trophy
+tile.twf:gold_lockyblock_2x2.name=Gold Lockyblock
+tile.twf:diamond_lockyblock_2x2.name=Diamond Lockyblock
+tile.twf:orange_lockyblock_2x2.name=Orange Lockyblock 2X2
+tile.twf:violet_lockyblock_1x1.name=Violet Lockyblock 1X1
+tile.twf:indigo_lockyblock_2x2.name=Indigo Lockyblock 2X2
+tile.twf:violet_lockyblock_1x1small.name=Violet Lockyblock 1X1 Small
+tile.twf:lockyblock_1x1.name=1x1 Lockyblock
+
+tile.twf:orange_lockyblock_2x2cone.name=Orange Lockyblock 2X2 Cone
+tile.twf:orange_lockyblock_1x1.name=Orange Lockyblock 1X1
+
+tile.twf:rainbow_lockyblock_2x2.name=Rainbow Lockyblock 2X2
+tile.twf:yellow_lockyblock_1x1small.name=Yellow Lockyblock 1X1 Small
+tile.twf:orange_lockyblock_1x1small.name=Orange Lockyblock 1X1 Small
+tile.twf:rainbow_lockyblock_2x2cone.name=Rainbow Lockyblock 2X2 Cone
+tile.twf:black_lockyblock_1x1.name=Black Lockyblock 1X1
+tile.twf:rainbow_lockyblock_1x1.name=Rainbow Lockyblock 1X1
+tile.twf:blue_lockyblock_2x2.name=Blue Lockyblock 2X2
+tile.twf:red_lockyblock_2x2.name=Red Lockyblock 2X2
+
+tile.twf:indigo_lockyblock_1x1small.name=Indigo Lockyblock 1X1 Small
+tile.twf:black_lockyblock_2x2cone.name=Black Lockyblock 2X2 Cone
+tile.twf:indigo_lockyblock_1x1.name=Indigo Lockyblock 1X1
+tile.twf:yellow_lockyblock_1x1.name=Yellow Lockyblock 1X1
+tile.twf:white_lockyblock_1x1.name=White Lockyblock 1X1
+tile.twf:red_lockyblock_1x1small.name=Red Lockyblock 1X1 Small
+tile.twf:violet_lockyblock_2x2cone.name=Violet Lockyblock 2X2 Cone
+tile.twf:red_lockyblock_2x2cone.name=Red Lockyblock 2X2 Cone
+tile.twf:blue_lockyblock_1x1small.name=Blue Lockyblock 1X1 Small
+tile.twf:black_lockyblock_2x2.name=Black Lockyblock 2X2
+tile.twf:black_lockyblock_1x1small.name=Black Lockyblock 1X1 Small
+tile.twf:red_lockyblock_1x1.name=Red Lockyblock 1X1
+tile.twf:green_lockyblock_2x2cone.name=Green Lockyblock 2X2 Cone
+tile.twf:violet_lockyblock_2x2.name=Violet Lockyblock 2X2
+tile.twf:rainbow_lockyblock_1x1small.name=Rainbow Lockyblock 1X1 Small
+tile.twf:yellow_lockyblock_2x2.name=Yellow Lockyblock 2X2
+tile.twf:grey_lockyblock_1x1.name=Grey Lockyblock 1X1
+tile.twf:green_lockyblock_1x1.name=Green Lockyblock 1X1
+tile.twf:white_lockyblock_2x2cone.name=White Lockyblock 2X2 Cone
+tile.twf:lockyblock_2x2.name=2x2 Lockyblock
+
+tile.twf:green_lockyblock_2x2.name=Green Lockyblock 2X2
+tile.twf:blue_lockyblock_1x1.name=Blue Lockyblock 1X1
+tile.twf:green_lockyblock_1x1small.name=Green Lockyblock 1X1 Small
+tile.twf:lockyblock_1x1small.name=1x1 small Lockyblock
+
+tile.twf:lockyblock_2x2cone.name=Lockyblock 2X2 Cone
+tile.twf:blue_lockyblock_2x2cone.name=Blue Lockyblock 2X2 Cone
+tile.twf:white_lockyblock_2x2.name=White Lockyblock 2X2
+tile.twf:grey_lockyblock_2x2.name=Grey Lockyblock 2X2
+tile.twf:grey_lockyblock_1x1small.name=Grey Lockyblock 1X1 Small
+tile.twf:white_lockyblock_1x1small.name=White Lockyblock 1X1 Small
+tile.twf:grey_lockyblock_2x2cone.name=Grey Lockyblock 2X2 Cone
+tile.twf:indigo_lockyblock_2x2cone.name=Indigo Lockyblock 2X2 Cone
+tile.twf:yellow_lockyblock_2x2cone.name=Yellow Lockyblock 2X2 Cone
+
+entity.twf:lockyblock_bopper.name=Lockyblock Bopper
+item.spawn_egg.entity.twf:lockyblock_bopper.name=Spawn Lockyblock Bopper

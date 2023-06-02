@@ -1,0 +1,20 @@
+{
+    "format_version": "1.19.40", 
+    "minecraft:block": {
+        "description": {
+            "identifier": "twf:orange_lockyblock_1x1",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.walls"
+			}  
+        }, 
+        "components": {
+            "minecraft:material_instances": {
+                "*": {
+                    "texture": "twf_lockyblock_1x1_orange"
+                }
+            }, 
+            "minecraft:geometry": "geometry.twf_lockyblock_1x1"
+        }
+    }
+}

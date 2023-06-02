@@ -1,0 +1,18 @@
+{
+  "skins": [
+    {
+      "localization_name": "blue_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "blue_custom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "red_custom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "red_custom.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "TWFLockyblockLand",
+  "localization_name": "TWFLockyblockLand"
+}

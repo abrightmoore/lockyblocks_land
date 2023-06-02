@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "448fb555-423a-c258-6099-8c4d7985c27c",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 20]
+	},
+	"metadata": {
+		"authors": ["TheWorldFoundry"]
+	},
+	"modules": [
+		{
+			"version": [1, 0, 0],
+			"uuid": "cc8f4f4b-7994-7cf3-fd02-1efcf744887f",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "42fa37f7-975c-f95b-7a7d-d6da9e2052f3",
+			"version": [1, 0, 0]
+		}
+	]
+}

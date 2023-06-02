@@ -1,0 +1,28 @@
+{
+	"format_version": "1.19.40",
+	"minecraft:block": {
+		"description": {
+			"identifier": "twf:trophy",
+			"menu_category": {
+				"category": "construction",
+				"group": "itemGroup.name.walls"
+			}  
+		},
+		"components": {
+			"minecraft:destructible_by_mining": false,
+			"minecraft:destructible_by_explosion": false,
+			"minecraft:geometry": "geometry.twf_trophy",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "twf_trophy",
+					"render_method": "alpha_test",
+                    "face_dimming": false,
+                    "ambient_occlusion": true
+				}
+			},
+			"minecraft:light_emission": 10,
+			"minecraft:light_dampening": 0,
+			"minecraft:map_color": "#ffffff"
+		}
+	}
+}
